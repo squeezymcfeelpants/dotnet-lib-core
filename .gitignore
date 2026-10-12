@@ -1,0 +1,12 @@
+# dumb macos
+.DS_Store
+
+# NEVER COMMIT THIS
+.env
+
+# vscode config
+.vscode/**/*
+
+# .net temp dirs
+/bin/**/*
+/obj/**/*

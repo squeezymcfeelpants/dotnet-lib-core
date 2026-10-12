@@ -1,0 +1,32 @@
+{
+	"players": [
+		{
+			"name": "ALFA",
+			"score": 111
+		},
+		{
+			"name": "BRAVO",
+			"score": 222
+		},
+		{
+			"name": "CHARLIE",
+			"score": 333
+		},
+		{
+			"name": "DELTA",
+			"score": 444
+		}
+	],
+	"lastDataFilename": "path/to/somefile.txt",
+	"darkMode": true,
+	"comPort": 2,
+	"dotNetVersion": 10.2,
+	"ventuzInfo": {
+		"version": {
+			"major": "8",
+			"minor": "0",
+			"build": "12345"
+		},
+		"defaultPort": 7800
+	}
+}

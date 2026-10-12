@@ -1,0 +1,42 @@
+{
+	"filePath": "C:\\Shows_dotNet\\Scrambled Up\\Graphics\\",
+	"audioPath": "C:\\Shows_dotNet\\Scrambled Up\\Audio\\",
+
+	"messageWindow": "WINDOW",
+
+	"midiDevice": 1,
+	"midiChannel": 1,
+	"midiLightingDevice": 3,
+	"midiLightingChannel": 2,
+
+	"oscTargets": [
+		{
+			"name": "main",
+			"ipAddress": "127.0.0.1"
+		},
+		{
+			"name": "fullscreen",
+			"ipAddress": "127.0.0.1"
+		},
+		{
+			"name": "podium",
+			"ipAddress": "127.0.0.1"
+		},
+		{
+			"name": "cheat",
+			"ipAddress": "127.0.0.1"
+		},
+		{
+			"name": "keyable",
+			"ipAddress": "127.0.0.1"
+		},
+		{
+			"name": "clock",
+			"ipAddress": "127.0.0.1"
+		},
+		{
+			"name": "tablet1",
+			"ipAddress": "127.0.0.1"
+		}
+	]
+}
